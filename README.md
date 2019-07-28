@@ -1,4 +1,5 @@
-#Setting up Git on Rajiv's laptop
+
+#Github account created for Rajiv and sample java project access changed to ssh
 #Test line to demonstract push using ssh. Second commit to demo change of passcode
 # Sample Java Project
 
