@@ -1,4 +1,4 @@
-#lecture 67 viewing and comparing changes (diff) using p4v
+#lecture 67 viewing and comparing changes (diff) using p4v tool
 
 #lecture 55
 #Default editor lecture 55
