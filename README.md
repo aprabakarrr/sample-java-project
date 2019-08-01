@@ -1,4 +1,4 @@
-#commit in the same file as in the branch ti see if merge conflict happens
+#lecture 80 merge conflict
 #lecture 67 viewing and comparing changes (diff) using p4v tool
 
 #lecture 55
